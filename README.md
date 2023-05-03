@@ -42,7 +42,7 @@ nothing, we just can't explain it because its an inside jokes. it took 12 years 
 1. Clone this project and `cd` into the cloned project by using this following this command:
    
    ```shell
-    git clone https://github.com/viernism/aku_crud.git && cd aku_crud
+    git clone https://github.com/rhnnnn/aku_croed.git && cd aku_croed
    ```
 
 2. After that, you'll need to copy `.env.example` into `.env` file and installing components from `composer` by using this following command:
